@@ -8,7 +8,7 @@ const myWhishList = [];
 
 console.log("Welcome to the shopee cart!");
 //creating the items oowowowo
-const item1 = await createItem("fucão lego", 20.99, 1);
+const item1 = await createItem("fuscão lego cabuloso", 20.99, 1);
 const item2 = await createItem("uno com escada gta XVI", 40.99, 3);
 
 //added two items to the cart
